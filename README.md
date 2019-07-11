@@ -1,6 +1,7 @@
-# flare_example
+# Flare Example
 
-A new Flutter project.
+Flare animations in flutter
+
 
 ## Getting Started
 
